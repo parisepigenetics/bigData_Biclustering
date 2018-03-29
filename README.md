@@ -15,3 +15,7 @@ The following algorithms were used (code on the jupyter file)
 The measures described on "ref." and implemented on the R script that calculates all measures for each bicluster. 
 
 ## Discussion
+
+### Results.
+
+Results are all collected in a form of Jupyter notebook in the 'results' forlder.
